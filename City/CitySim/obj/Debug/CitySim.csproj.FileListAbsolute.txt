@@ -1,0 +1,10 @@
+C:\Users\Vadim\source\repos\CitySim\bin\Debug\CitySim.exe.config
+C:\Users\Vadim\source\repos\CitySim\bin\Debug\CitySim.exe
+C:\Users\Vadim\source\repos\CitySim\bin\Debug\CitySim.pdb
+C:\Users\Vadim\source\repos\CitySim\obj\Debug\CitySim.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\CitySim\obj\Debug\CitySim.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\CitySim\obj\Debug\CitySim.exe
+C:\Users\Vadim\source\repos\CitySim\obj\Debug\CitySim.pdb
+C:\Users\Игорь\Desktop\City\CitySim\bin\Debug\CitySim.exe.config
+C:\Users\Игорь\Desktop\City\CitySim\obj\Debug\CitySim.exe
+C:\Users\Игорь\Desktop\City\CitySim\obj\Debug\CitySim.pdb
